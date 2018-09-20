@@ -1,0 +1,7 @@
+{
+  "name": "LoginWithSideMenu",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
